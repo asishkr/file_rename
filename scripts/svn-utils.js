@@ -61,7 +61,5 @@ class SvnUtils {
             }
         );
     }
-
-    
 }
 module.exports = SvnUtils;

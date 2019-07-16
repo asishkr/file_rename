@@ -18,7 +18,7 @@ Habitat.forEach((book) => {
             }
         });
     }).then((book) => {
-        //Process(`./habitat/${book}`);
+        //Process(`./habitat/${book}`); //For file renaming recursively
     })
     .then(() => {
         svn.move(book);
