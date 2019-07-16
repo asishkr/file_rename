@@ -1,0 +1,16 @@
+{
+  "name": "file_rename",
+  "version": "1.0.0",
+  "description": "File renaming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akhuntia",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "node-svn-ultimate": "^1.2.0"
+  }
+}

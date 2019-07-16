@@ -1,0 +1,12 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+<body>
+<seq epub:textref="ssna699_audio_poc_ii_.xhtml">
+<par><audio clipBegin="00:00:00.000" clipEnd="00:00:01.463" src="../../audio/sn_503-c03-s05-widget-image_carousel-01-01.mp3" name="title" /></par>
+<par><audio clipBegin="00:00:00.000" clipEnd="00:00:05.904" src="../../audio/sn_503-c03-s05-widget-image_carousel-01-02.mp3"/></par>
+<par><audio clipBegin="00:00:00.000" clipEnd="00:00:02.508" src="../../audio/sn_503-c03-s05-widget-image_carousel-01-03.mp3"/></par>
+<par><audio clipBegin="00:00:00.000" clipEnd="00:00:02.064" src="../../audio/sn_503-c03-s05-widget-image_carousel-01-04.mp3"/></par>
+<par><audio clipBegin="00:00:00.000" clipEnd="00:00:13.140" src="../../audio/sn_503-c03-s05-widget-image_carousel-01-05.mp3"/></par>
+</seq>
+</body>
+</smil>
+
